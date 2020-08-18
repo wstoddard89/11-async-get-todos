@@ -2,7 +2,11 @@
 
 ## using the following api below - fetch a list of todos and display them on the screen
 
-```https://jsonplaceholder.typicode.com/```
+## use the fetch api to make the get request
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+```https://jsonplaceholder.typicode.com/todos```
 
 ## requirements
 - create an html file
